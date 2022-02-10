@@ -4,4 +4,4 @@
 ## Installation:
 - Drag & drop EaxSet.exe & EaxSet.exc to this location `C:\Program Files (x86)\Creative\EAXSet`.
 
-- Enjoy! .
+- Enjoy!, Deadly Forces.
