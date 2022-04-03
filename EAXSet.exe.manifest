@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!--MADE BY LOVE BY DEADLY FORCES TEAM-->
+
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 
 <assemblyIdentity
@@ -8,7 +8,7 @@
 
     processorArchitecture="X86"
 
-    name="EAXSet" <!--DIFF MODIFIER :)-->
+    name="EAXSet"
 
     type="win32"
 
@@ -33,10 +33,11 @@
             publicKeyToken="6595b64144ccf1df"
 
             language="*"
+
         />
 
     </dependentAssembly>
 
 </dependency>
-<!--MADE BY LOVE BY DEADLY FORCES TEAM-->
+
 </assembly>
